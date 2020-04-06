@@ -47,7 +47,7 @@ body {
   background: #ffffff;
   max-width: 320px;
   width: 100%;
-  border-top: 5px solid #33b5e5;
+  border-top: 5px solid #87c05e;
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
   margin: 0 auto;
 }
@@ -56,7 +56,7 @@ body {
   position: absolute;
   top: -0;
   right: -0;
-  background: #33b5e5;
+  background: #87c05e;
   width: 30px;
   height: 30px;
   margin: -5px 0 0;
@@ -96,7 +96,7 @@ body {
 }
 .form-module h2 {
   margin: 0 0 20px;
-  color: #33b5e5;
+  color: #87c05e;
   font-size: 18px;
   font-weight: 400;
   line-height: 1;
@@ -114,12 +114,12 @@ body {
   transition: 0.3s ease;
 }
 .form-module input:focus {
-  border: 1px solid #33b5e5;
+  border: 1px solid #87c05e;
   color: #333333;
 }
 .form-module button {
   cursor: pointer;
-  background: #33b5e5;
+  background: #87c05e;
   width: 100%;
   border: 0;
   padding: 10px 15px;
@@ -160,39 +160,47 @@ position: absolute;
 
 </style>
 <body>
+
 <div id="headlinks">
-<p style="text-align:right"><a href="">Business</a>&#160;&#160;<a href="">Contact Us</a></p>
-</div><br>
-<img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
+<p style="text-align:right; margin-right:200px; color:#2957bd"><a href="" style="color:#2957bd">Business</a>&#160;&#160;<a href="" style="color:#2957bd">Contact Us</a></p>
+</div>
+
+<br>
+<img src="ml1.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:20px;">
+
 <b>
-<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARS COMMUNICATION</h1></b>
+<h1 style="color:#707070;font-size: 350%;position:absolute;left:400px;top:80px;">MarsLander Telecom</h1>
+</b>
+<br>
+<img src="ml2.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:930px;top:20px;">
+
 <br><br><br>
 <section class="wlp-login-message-content">
 <p><b>
 <i>
-<font color="darkorange">Help Desk</font>
+<font color="#707070">Help Desk</font>
 </i>
 </b>
-<br><br>
+<br><br><p style="color:#87c05e;">
 The Mars Help Desk, can assist with issues and concerns regarding:
-<br><br>
+</p><br><br>
 <i>
-<font color="orange"> Troubleshooting problems</font>
-</i>
-<p>
+<font color="#707070"> Troubleshooting problems</font>
+</i><br><br>
+<p style="color:#87c05e;">
 -Moves, adds and changes to telephone equipment or service.<br>
 -New service, voicemail, caller menus, special calling features and plans, caller ID, music on hold, international dialing.<br>
 -Fax machines and codes, headsets, conference calls, speaker phone rental.<br>
 -Call accounting and billling - Telephone bill login.<br>
 -We also manage plans, orders, service, billing and trouble shooting for college provided cellphones and smartphones.<br><br>
 <i>
-<font color="darkorange"> CONTACT US</font>
+<font color="#707070"> CONTACT US</font>
 </i>
 <br><br>
-<ul style="margin-left:20px">
+<ul style="margin-left:20px;color:#87c05e;">
 <li>Call 123-456-7890</li>
 <li>
-<a href="mailto:compliant@devopsunion.com">Email</a>
+<a href="mailto:compliant@devopsunion.com" style="color:#2957bd">Email</a>
 </li><br>
  Wholesale Customer Care:
 <br>
@@ -213,9 +221,9 @@ The Mars Help Desk, can assist with issues and concerns regarding:
    <div class="cta"><a href="">Forgot your password?</a></div>
    </div>
    <p class="text-center">
-   <span id="fullyear">2017</span>
-   &#169; DEVOPS UNION. All Rights Reserved.<br>
-   | India | Singapore | Belgium | USA |
+   <span id="fullyear">2020</span>
+   &#169; MarsLander Telecom. All Rights Reserved.<br>
+   | India | USA |
   </p>
  </body>
  </html>
